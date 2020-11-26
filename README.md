@@ -1,1 +1,1 @@
-# Matrices
+# Laboratory 6: Matrices
